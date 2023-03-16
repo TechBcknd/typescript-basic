@@ -1,1 +1,4 @@
-console.log("Hello World!");
+// Función asíncrona autoejecutable
+(async () => {
+  console.log("Hello World!");
+})();

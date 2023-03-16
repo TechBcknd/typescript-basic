@@ -1,7 +1,7 @@
 {
 	"name": "typescript-basic",
 	"version": "1.0.0",
-	"main": "index.js",
+	"main": "dist/index.js",
 	"repository": "https://github.com/TechBcknd/typescript-basic.git",
 	"author": "Tech <tech@bcknd.tech>",
 	"license": "MIT",
